@@ -62,7 +62,7 @@ const AddMealForm = () => {
           onChange={(e) => setMealPrice(e.target.value)}
         />
       </div>
-      <button type="submit">Add Meal</button>
+      <button type="submit">Add Candy</button>
     </form>
   );
 };

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useReducer } from "react";
 import CartContext from "./cart-context";
 
